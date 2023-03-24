@@ -1,10 +1,8 @@
 {
   "private": true,
-  "homepage": "https://erizo47.github.io/Nuxt.js_restaurant-review-app/",
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
-    "deploy": "gh-pages -d dist",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare"
@@ -12,8 +10,5 @@
   "devDependencies": {
     "@types/node": "^18.15.3",
     "nuxt": "^3.3.1"
-  },
-  "dependencies": {
-    "gh-pages": "^5.0.0"
   }
 }
