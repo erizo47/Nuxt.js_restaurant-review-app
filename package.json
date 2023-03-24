@@ -1,5 +1,6 @@
 {
   "private": true,
+  "homepage": "https://erizo47.github.io/Nuxt.js_restaurant-review-app/",
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",

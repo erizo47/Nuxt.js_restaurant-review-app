@@ -2,15 +2,14 @@
 export default defineNuxtConfig({
     app: {
         head: {
-            title: 'Restaurant review app',
-
             link: [
                 {
                     rel: 'stylesheet',
                     href: 'https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css'
                 }
             ]
-        }
+        },
+        baseURL: '/Nuxt.js_restaurant-review-app/' // baseURL: '/<repository>/'
     }
     
     
