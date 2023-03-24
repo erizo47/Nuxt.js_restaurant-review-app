@@ -9,7 +9,6 @@ export default defineNuxtConfig({
                 }
             ]
         },
-        baseURL: '/Nuxt.js_restaurant-review-app/' // baseURL: '/<repository>/'
     }
     
     
