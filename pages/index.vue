@@ -15,14 +15,11 @@
         <h1>Welcome to Restorant review!</h1>
         <NuxtLink to="/restaurants">Go to restaurants page</NuxtLink>
       </div>
-      <button @click="click"> click</button>
     </div>
   </template>
   
   <script setup lang="ts">
-  const click = () => {
-    console.log('wqqew')
-  }
+  
   </script>
   
   <style scoped>
