@@ -1,6 +1,6 @@
 <template>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark ">
-  <div class="container-fluid">
+  <div class="container-fluid justify-content-between">
     <NuxtLink class="navbar-brand" to="/">Restorant review</NuxtLink>
     
     <div class="collapse navbar-collapse" id="navbarSupportedContent">

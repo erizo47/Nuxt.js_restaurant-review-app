@@ -14,7 +14,7 @@
 
         >
       <h4 class="header rank"> {{ rank }}</h4>
-      <a :href="`/restaurants/${name}`" class="header link">{{ name }}</a>
+      <NuxtLink :to="`/restaurants/${name}`" class="header link">{{ name }}</NuxtLink>
     </div>
 </template>
 <script setup lang="ts">
